@@ -1,4 +1,11 @@
-### Hi there 👋
+### Stats
+[![kcpru's github stats](https://github-readme-stats.vercel.app/api?username=kcpru&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcpru&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kcpru&column=4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+### Views
+![](https://komarev.com/ghpvc/?username=kcpru&color=red)
 
 <!--
 **kcpru/kcpru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
