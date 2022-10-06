@@ -1,3 +1,9 @@
+### Hello 👋 I'm Kacper
+
+I'm a student and programming enthusiast from Poland who also enjoys photography and playing the piano.
+
+[Telegram](https://t.me/kcpru) • [LinkedIn](https://www.linkedin.com/in/kacperslusarczyk/) • [Instagram](https://www.instagram.com/kcpru/) • [Reddit](https://www.reddit.com/user/kcpru)
+
 ### 🍀 Stats
 
 [![kcpru's github stats](https://github-readme-stats.vercel.app/api?username=kcpru&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
