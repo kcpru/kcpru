@@ -6,7 +6,7 @@ I'm a student and programming enthusiast from Poland who also enjoys photography
 
 ### 🍀 Stats
 
-[![kcpru's github stats](https://github-readme-stats.vercel.app/api?username=kcpru&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![kcpru's github stats](https://github-readme-stats.vercel.app/api?username=kcpru&show_icons=true&theme=gotham&include_all_commits=true&border_radius=0&hide_border=true)
 
 ### 🔮 Languages
 
