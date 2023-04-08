@@ -2,7 +2,7 @@
 
 I'm a student and programming enthusiast from Poland who also enjoys photography and playing the piano. I'm a happy owner of Arch and NixOS.
 
-[Telegram](https://t.me/kcpru) • [LinkedIn](https://www.linkedin.com/in/kacperslusarczyk/) • [Instagram](https://www.instagram.com/kcpru/) • [Reddit](https://www.reddit.com/user/kcpru)
+[Telegram](https://t.me/kcpru) • [Discord](https://discord.com/users/493747925009039381)
 
 ### 🍀 Stats
 
@@ -11,10 +11,10 @@ I'm a student and programming enthusiast from Poland who also enjoys photography
 ### 🔮 Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ### 🔥 Frameworks
 
