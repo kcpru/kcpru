@@ -24,6 +24,7 @@ I'm a student and programming enthusiast from Poland who also enjoys photography
 ![Sass](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/styled%20component-b22492?style=for-the-badge&logo=styledComponents&logoColor=white)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/chakra-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![FramerMotion](https://img.shields.io/badge/framer%20motion-9b25e0?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
 
