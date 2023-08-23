@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Kacper
 
-I'm a student and programming enthusiast from Poland who also enjoys photography and playing the piano. I'm a happy owner of Arch and NixOS.
+I'm a student and programming enthusiast from Poland who also [enjoys photography](https://www.reddit.com/r/Ubuntu/comments/uj6wxb/my_photo_of_the_sunset_is_on_ubuntu_2204/) and playing the piano. I'm a happy owner NixOS.
 
 [Telegram](https://t.me/kcpru) • [Discord](https://discord.com/users/493747925009039381)
 
@@ -12,25 +12,25 @@ I'm a student and programming enthusiast from Poland who also enjoys photography
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-### 🔥 Frameworks
+### 🔥 Frameworks & Libraries
 
-![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![NextJS](https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
+![NextJS](https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/styled%20component-b22492?style=for-the-badge&logo=styledComponents&logoColor=white)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/chakra-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![UnoCSS](https://img.shields.io/badge/UnoCSS-dfdfd6?style=for-the-badge&logo=unocss&logoColor=1e1e20)&nbsp;
 ![FramerMotion](https://img.shields.io/badge/framer%20motion-9b25e0?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
 
 ### 🛠️ Tools
 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![NeoVim](https://img.shields.io/badge/neovim-1175b1?style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Sanity](https://img.shields.io/badge/sanity-f36458?style=for-the-badge&logo=sanity&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/linux-bf1e5e?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 ---
 
-![](https://komarev.com/ghpvc/?username=kcpru&color=red)
+![](https://komarev.com/ghpvc/?username=kcpru&color=blueviolet&style=for-the-badge)
