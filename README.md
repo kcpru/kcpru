@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Kacper
 
-I'm a student and programming enthusiast from Poland who also [enjoys photography](https://www.reddit.com/r/Ubuntu/comments/uj6wxb/my_photo_of_the_sunset_is_on_ubuntu_2204/) and playing the piano. I'm a happy owner NixOS.
+I'm a student and programming enthusiast from Poland who also ~~[enjoys photography](https://www.reddit.com/r/Ubuntu/comments/uj6wxb/my_photo_of_the_sunset_is_on_ubuntu_2204/)~~ (deprecated) and plays the piano. A happy owner of NixOS.
 
 [Telegram](https://t.me/kcpru) • [Discord](https://discord.com/users/493747925009039381)
 
